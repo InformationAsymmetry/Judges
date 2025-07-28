@@ -12,7 +12,7 @@ _🐙?+.. [--] Moses, Israel, Public Open Source, Infrastructure As Code_
 | [🖥️] | data scraping using json |  
 
 ### Missionary
-How do you perform exegesis using public open source and infrastructure as code?  Let's start with Judges.
+How to organize the bible into a datastructure?  Let's start with Judges.
 
 > The first step is to create an array or object with the [judges](https://github.com/TechnologyMissionary/Judges--Neobii-0/commit/47e9b8b245ef9a69e01e68b3de01eeaab064f018).
 
